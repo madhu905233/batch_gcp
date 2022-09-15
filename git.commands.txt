@@ -233,4 +233,4 @@ Git Stash Command - Git Commands - Edureka
 Want to learn more about git commands? Here is a Git Tutorial to get you started. Alternatively, you can take a top-down approach and start with this DevOps Tutorial.
 
 Git
-Command (Computing)
+Command (Computing  (and)  computing)
